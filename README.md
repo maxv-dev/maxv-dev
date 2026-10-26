@@ -60,9 +60,9 @@ Here you will find:
 * 📁 Code structured for clarity and understanding
 
 
-* 🔗 Project / Repo 1: https://github.com/SARTHAK-web-coder/Data-Structures-Algorithms
-* 🔗 Project / Repo 2: https://github.com/SARTHAK-web-coder/OneMore
-* 🔗 Project / Repo 3: https://github.com/SARTHAK-web-coder/leetcode
+* 🔗 Project / Repo 1: https://github.com/maxv-dev/Data-Structures-Algorithms
+* 🔗 Project / Repo 2: https://github.com/maxv-dev/OneMore
+* 🔗 Project / Repo 3: https://github.com/maxv-dev/leetcode
 
 ---
 
@@ -86,7 +86,7 @@ I believe in **consistent practice**, **learning from mistakes**, and **focusing
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/jagtap-sarthak-69a991339/
-* GitHub: https://github.com/SARTHAK-web-coder
+* GitHub: https://github.com/maxv-dev
 
 ---
 
